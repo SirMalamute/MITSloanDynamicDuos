@@ -3,4 +3,3 @@ Using network analysis, weighted centrality measures and positional clustering t
 
 # Data Citations
 SportsReference
-NBA.com (Stats)
